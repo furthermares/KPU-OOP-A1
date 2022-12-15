@@ -1,2 +1,2 @@
 # KPU-OOP-A1
-(200608)
+[README](A1.docx)
